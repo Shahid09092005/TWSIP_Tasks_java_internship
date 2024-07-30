@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent; // for button events
 import java.awt.event.ActionListener; // for handling button clicks
 import java.util.Random; // for generating random numbers
 
-public class rand{
+public class randdom_gui{
     private static int numToGuess;
     private static int maxGuess = 5;
     private static boolean guessConfirmed = false;
